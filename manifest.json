@@ -7,7 +7,9 @@
   "icons": {
     "128": "app_icon.png"
   },
-
+  "author": "Wojciech Wozniak",
+  "homepage_url": "https://github.com/wojtekw92/qrlink",
+  "offline_enabled": true,
   "browser_action": {
     "default_icon": "icon.png",
     "default_popup": "popup.html"
